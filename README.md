@@ -1,5 +1,5 @@
 # mP3Slicer
-simple python script that split MP3 audio files 
+simple python script that split MP3 audio files to match your media videos length such as sanpchat, ...etc. 
 
 ## Requirements
 
@@ -10,7 +10,8 @@ simple python script that split MP3 audio files
 
 ## Usage 
 
-* Choose the mp3 file 
-* Enter the duration of each slice
-* Choose the output directory
+* Run Slice-MP3.py 
+* A window will pop-up to choose the mp3 file 
+* Then enter the duration of the slices
+* Choose the output directory 
 * hit Start! 
